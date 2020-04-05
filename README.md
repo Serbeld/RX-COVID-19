@@ -9,3 +9,5 @@ https://github.com/Serbeld/Dataset-4C-D
 
 You can find an example of implementation in the following link: 
 https://github.com/Serbeld/RX-COVID-19/blob/master/Training_InceptionV3.ipynb
+and 
+https://github.com/Serbeld/RX-COVID-19/blob/master/Training_InceptionV3_2nd_time.ipynb
