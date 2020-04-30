@@ -79,8 +79,6 @@ The classes are:
 
     (512,512,3)
 
-<img src="Data6C/Data6C.png" />
-
 You can find the dataset in the following link:
 
 https://github.com/Serbeld/Dataset6C
