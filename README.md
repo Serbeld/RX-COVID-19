@@ -2,7 +2,7 @@
 
 Team studying the detection of respiratory diseases in images
 
-<img src="Detection5OfRespiratoryDiseases/intro.PNG" />
+<img src="Detection5OfRespiratoryDiseases/intro.png"/>
 
 ## Dataset-4C
 
