@@ -1,8 +1,12 @@
 # RX-COVID-19
 
-Team studying the detection of respiratory diseases in images
+Team studying the detection of respiratory diseases in x-ray images
 
 <img src="Detection5OfRespiratoryDiseases/intro.png"/>
+
+Detections
+
+![](Covid_detections.gif)
 
 ## Dataset-4C
 
