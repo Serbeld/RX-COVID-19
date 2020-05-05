@@ -1,7 +1,6 @@
 # RX-COVID-19
 
-Team studying the detection of respiratory diseases in x-ray images
-
+Repository that studies the detection of respiratory diseases in X-ray images using repositories with data sets for the detection of respiratory diseases.
 <img src="Detection5OfRespiratoryDiseases/intro.png"/>
 
 Detections
