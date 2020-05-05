@@ -1,6 +1,7 @@
 # RX-COVID-19
 
-Repository that studies the detection of respiratory diseases in X-ray images using repositories with data sets for the detection of respiratory diseases.
+Repository that studies the detection of respiratory diseases in X-ray images using repositories with datasets for the detection of respiratory diseases related to Covid-19.
+
 <img src="Detection5OfRespiratoryDiseases/intro.png"/>
 
 Detections
