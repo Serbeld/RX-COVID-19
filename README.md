@@ -4,9 +4,9 @@ Repository that studies the detection of respiratory diseases in X-ray images us
 
 <img src="Detection5OfRespiratoryDiseases/intro.png"/>
 
-Detections
+[comment]: # (Detections)
 
-![](Covid_detections.gif)
+[comment]: # (![](Covid_detections.gif))
 
 Detections with Tkinter
 
