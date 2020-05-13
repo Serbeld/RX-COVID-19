@@ -8,6 +8,11 @@ Detections
 
 ![](Covid_detections.gif)
 
+Detections with Tkinter
+
+<img src="DEMO.png"/>
+
+
 ## Dataset-4C
 
 The Dataset4C.hdf5 file consists in 396 images in RGB scale, divided in 4 classes. There are 277 training images, 59 validation images and 60 test images.(70% for training, 15% for validation and 15% for testing)
