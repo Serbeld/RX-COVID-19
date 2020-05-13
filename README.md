@@ -8,6 +8,9 @@ Detections with Tkinter
 
 <img src="DEMO.png"/>
 
+Detections
+
+![](Covid_detections.gif)
 
 ## Dataset-4C
 
